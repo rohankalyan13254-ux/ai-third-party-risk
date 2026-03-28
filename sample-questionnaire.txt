@@ -1,0 +1,7 @@
+Vendor Security Questionnaire (Sample)
+
+1. Do you have an Information Security Policy? (Yes/No)
+2. Do you conduct regular vulnerability assessments? (Yes/No)
+3. Is data encrypted at rest and in transit? (Yes/No)
+4. Do you have an incident response plan? (Yes/No)
+5. Are employees trained on security awareness? (Yes/No)
